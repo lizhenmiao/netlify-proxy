@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/*"
-to = "https://vcelink.myshopify.com/:splat"
+to = "https://m.media-amazon.com/:splat"
 status = 200
 force = true
