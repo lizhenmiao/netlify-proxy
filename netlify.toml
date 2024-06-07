@@ -1,11 +1,11 @@
 [[redirects]]
-from = "/vce-shopify"
+from = "/vce-shopify/*"
 to = "https://vcelink.myshopify.com/:splat"
 status = 200
 force = true
 
 [[redirects]]
-from = "/amazon-images"
-to = "https://m.media-amazon.com/:splat"
+from = "/amazon-images/*"
+to = "https://m.media-amazon.com/images/:splat"
 status = 200
 force = true
