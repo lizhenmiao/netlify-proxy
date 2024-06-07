@@ -1,1 +1,1 @@
-# shopify-proxy
+# netlify-proxy
