@@ -5,12 +5,6 @@ status = 200
 force = true
 
 [[redirects]]
-from = "/radash-docs/*"
-to = "https://radash-docs.vercel.app/:splat"
-status = 200
-force = true
-
-[[redirects]]
 from = "/amazon-images/*"
 to = "https://m.media-amazon.com/images/:splat"
 status = 200
