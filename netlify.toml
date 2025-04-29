@@ -9,3 +9,9 @@ from = "/amazon-images/*"
 to = "https://m.media-amazon.com/images/:splat"
 status = 200
 force = true
+
+[[redirects]]
+from = "/openai/*"
+to = "https://api.openai.com/:splat"
+status = 200
+force = true
