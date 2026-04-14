@@ -1,17 +1,23 @@
-[[redirects]]
-from = "/vce-shopify/*"
-to = "https://vcelink.myshopify.com/:splat"
-status = 200
-force = true
+# [[redirects]]
+# from = "/vce-shopify/*"
+# to = "https://vcelink.myshopify.com/:splat"
+# status = 200
+# force = true
 
-[[redirects]]
-from = "/amazon-images/*"
-to = "https://m.media-amazon.com/images/:splat"
-status = 200
-force = true
+# [[redirects]]
+# from = "/amazon-images/*"
+# to = "https://m.media-amazon.com/images/:splat"
+# status = 200
+# force = true
 
 [[redirects]]
 from = "/openai/*"
 to = "https://api.openai.com/:splat"
+status = 200
+force = true
+
+[[redirects]]
+from = "/exa/*"
+to = "https://api.exa.ai/:splat"
 status = 200
 force = true
